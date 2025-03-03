@@ -29,7 +29,8 @@
 <img src= "https://assets.tryhackme.com/img/badges/serversideattack.svg" height=70px width=70px/></a>
 [![](https://tryhackme-badges.s3.amazonaws.com/TranquilWind.png)](https://tryhackme.com/p/TranquilWind)
 
-
+### Leetcode Badges:
+[![](https://leetcode-badge-showcase.vercel.app/api?username=TranquilWind&theme=dark&border=border&animated=false)](https://leetcode.com/u/TranquilWind/)
 
 
 
